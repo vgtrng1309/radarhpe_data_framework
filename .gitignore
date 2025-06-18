@@ -1,0 +1,7 @@
+*.csv
+*.txt
+__pycache__
+bosch/
+lidar/
+images/
+data/
